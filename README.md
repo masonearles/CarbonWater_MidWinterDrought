@@ -1,4 +1,4 @@
-# CarbonWater_MidWinterDrought
+# MidWinterDrought
 This is the GitHub repository associated with the paper:
 
 Earles, J.M., Stevens, J.T., Sperling, O., North, M., and Zwieniecki, M. (accepted). Extreme mid-winter drought weakens tree hydraulic and carbohydrate systems.
