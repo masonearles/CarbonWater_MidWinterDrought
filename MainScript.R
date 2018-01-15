@@ -1,7 +1,7 @@
 ##############################################################################################
 # Script for "Extreme mid-winter drought weakens tree hydraulic and carbohydrate systems"
 # Earles et al.
-# last updated: Oct. 27th, 2017
+# last updated: Dec. 15th, 2017
 ###############################################################################################
 
 ######################
