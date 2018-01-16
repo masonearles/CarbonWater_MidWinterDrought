@@ -2,7 +2,7 @@
 
 Rising temperatures and extended periods of drought compromise tree hydraulic and carbohydrate systems, threatening forest health globally. Despite winter’s biological significance to many forests, the effects of warmer and dryer winters on tree hydraulic and carbohydrate status have largely been overlooked. California had an extremely hot and dry winter in 2015 (vapor pressure deficit, or VPD, integrates temperature and relative humidity).
 
-<br> ![Alt text](imgs_readme/MWD_Fig1.png?raw=true "VPD and Precip Anomaly") <br>
+<br> ![Alt text](imgs_readme/MWD_Fig1.png?raw=true "VPD and Precip Anomaly" width = 500) <br>
 
 During this anomalous mid-winter drought, we measured that three tree species lost a large fraction of water in their trunks (measured as relative water content, or 'RWC') and depleted their carbohydrate reserves (i.e. soluble carbohydrates, or 'sc' and starch, or 'st'). 
 
