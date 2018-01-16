@@ -15,7 +15,7 @@ We developed a model that used recent precipitation and seasonal vapor pressure 
 
 Further examination of tree core records indicated a coordinated decline of tree growth with rising mid-winter, but not summer, VPD anomaly. 
 
-<br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig4.png" width = 600></a></br>
+<br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig4.png" width = 350></a></br>
 
 Thus, our findings suggest a seasonality to tree hydraulic and non-structural carbohydrate vulnerability with consequences for annual growth rates, raising novel physiological and ecological questions about how rising winter temperatures will affect forest vitality as climate changes.
 
