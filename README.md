@@ -2,7 +2,7 @@
 
 ### Extreme mid-winter drought weakens tree hydraulic-carbohydrate systems and compromises tree growth
 
-Rising temperatures and extended periods of drought compromise tree hydraulic and carbohydrate systems, threatening forest health globally. Despite winter’s biological significance to many forests, the effects of warmer and dryer winters on tree hydraulic and carbohydrate status have largely been overlooked. This study built on California's extremely hot and dry winter in 2015 (see the figure below; vapor pressure deficit, or VPD, integrates temperature and relative humidity).
+Rising temperatures and extended periods of drought compromise tree hydraulic and carbohydrate systems, threatening forest health globally. Despite winter’s biological significance to many forests, the effects of warmer and dryer winters on tree hydraulic and carbohydrate status have largely been overlooked. This study built on California's extremely hot and dry winter in 2015 which can be seen in the figure below (vapor pressure deficit, or VPD, integrates temperature and relative humidity).
 
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig1.png" width = 600></a></br>
