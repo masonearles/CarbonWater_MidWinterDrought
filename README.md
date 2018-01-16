@@ -15,11 +15,11 @@ We developed a hierarchical, random effects model that used recent precipitation
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig3.png" width = 450></a></br>
 
-Further examination of tree core records indicated a coordinated decline of tree growth with rising mid-winter, but not summer, VPD anomaly. 
+Further examination of tree core records indicated a coordinated decline of tree growth with rising mid-winter, but not summer, VPD anomaly (VPD5d = 5 day VPD anomaly; P60d = cumulative 60 day precipitation). 
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig4.png" width = 275></a></br>
 
-Thus, our findings (suprisingly) suggested that tree hydraulic and non-structural carbohydrate vulnerability with is seasonal and warm winters have major consequences for annual growth rates. These findings raised novel physiological and ecological questions about how rising winter temperatures will affect forest vitality as climate changes.
+Thus, our findings (suprisingly) suggested that tree hydraulic and non-structural carbohydrate vulnerability is seasonal and warm winters have major consequences for annual growth rates. These findings raised novel physiological and ecological questions about how rising winter temperatures will affect forest vitality as climate changes.
 
 ### This is the GitHub repository associated with the paper:
 
