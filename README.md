@@ -23,4 +23,4 @@ Thus, our findings suggest a seasonality to tree hydraulic and non-structural ca
 
 ### This is the GitHub repository associated with the paper:
 
-Earles, J.M., Stevens, J.T., Sperling, O., North, M., and Zwieniecki, M. (accepted). Extreme mid-winter drought weakens tree hydraulic and carbohydrate systems.
+Earles, J.M., Stevens, J.T., Sperling, O., North, M., and Zwieniecki, M. (accepted). Extreme mid-winter drought weakens tree hydraulic-carbohydrate systems and compromises tree growth.
