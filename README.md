@@ -7,7 +7,7 @@ Rising temperatures and extended periods of drought compromise tree hydraulic an
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig1.png" width = 600></a></br>
 
-During this anomalous mid-winter drought, we measured that three tree species lost a large fraction of water in their trunks (measured as relative water content, or 'RWC') and significantly depleted their carbohydrate reserves (i.e. soluble carbohydrates, or 'SC' and starch, or 'St'). 
+During this anomalous mid-winter drought, we measured that three tree species lost a large fraction of water in their trunks (measured as relative water content, or 'RWC') and significantly depleted their carbohydrate reserves (i.e. soluble carbohydrates, or 'SC' and starch, or 'St'). In the figure below, F14/F15 and M14/M15 indicate February 2014/2015 and May 2014/2015, respectively.
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig2.png" width = 600></a></br>
 
