@@ -11,7 +11,7 @@ During this anomalous mid-winter drought, we measured that three tree species lo
 
 We developed a model that used recent precipitation and seasonal vapor pressure deficit (VPD) anomaly to best predict the trends in tree relative water content observed. 
 
-<br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig3.png" width = 400></a></br>
+<br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig3.png" width = 450></a></br>
 
 Further examination of tree core records indicated a coordinated decline of tree growth with rising mid-winter, but not summer, VPD anomaly. 
 
