@@ -11,7 +11,7 @@ During this anomalous mid-winter drought, we measured that three tree species lo
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig2.png" width = 600></a></br>
 
-We developed a model that used recent precipitation and seasonal vapor pressure deficit (VPD) anomaly to best predict the trends in tree relative water content observed. 
+We developed a hierarchical, random effects model that used recent precipitation and seasonal vapor pressure deficit (VPD) anomaly to best predict the trends in tree relative water content observed. We tested ~1,000 potential models, selected the best model using AIC/BIC, and made the following predictions at the individual tree level.  
 
 <br><a href="url"><img src="https://github.com/masonearles/MidWinterDrought/blob/master/imgs_readme/MWD_Fig3.png" width = 450></a></br>
 
