@@ -18,6 +18,6 @@ Further examination of tree core records indicated a coordinated decline of tree
 
 Thus, our findings suggest a seasonality to tree hydraulic and non-structural carbohydrate vulnerability with consequences for annual growth rates, raising novel physiological and ecological questions about how rising winter temperatures will affect forest vitality as climate changes.
 
-This is the GitHub repository associated with the paper:
+### This is the GitHub repository associated with the paper:
 
 Earles, J.M., Stevens, J.T., Sperling, O., North, M., and Zwieniecki, M. (accepted). Extreme mid-winter drought weakens tree hydraulic and carbohydrate systems.
