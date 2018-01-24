@@ -418,7 +418,7 @@ grid.arrange(p1,p2,p3,nrow=1)
 dev.off()
 
 #Check for significance of temporal trend
-mmm1.sm <- lm(VPD5.hist.z ~ Year, , data=clim.musd.moavg[clim.musd.moavg$group=="summer",])
+mmm1.sm <- lm(VPD5.hist.z ~ Year, data=clim.musd.moavg[clim.musd.moavg$group=="summer",])
 mmm1.wn <- lm(VPD5.hist.z ~ Year, data=clim.musd.moavg[clim.musd.moavg$group=="winter",])
 mmm2.sm <- lm(P60.sml ~ Year, data=clim.musd.moavg[clim.musd.moavg$group=="summer",])
 mmm2.wn <- lm(P60.sml ~ Year, data=clim.musd.moavg[clim.musd.moavg$group=="winter",])
